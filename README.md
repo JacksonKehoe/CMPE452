@@ -1,1 +1,1 @@
-# CMPE452
+# CMPE452 Neural Networks
